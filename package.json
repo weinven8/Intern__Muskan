@@ -8,7 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "lite": "lite-server"
   },
-  "author": "",
+  "author": "Muskan",
   "license": "ISC",
   "devDependencies": {
     "lite-server": "^2.3.0"
@@ -17,5 +17,13 @@
     "bootstrap": "^4.5.0",
     "jquery": "^3.5.1",
     "popper.js": "^1.12.9"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/13muskanp/Internship.git"
+  },
+  "bugs": {
+    "url": "https://github.com/13muskanp/Internship/issues"
+  },
+  "homepage": "https://github.com/13muskanp/Internship#readme"
 }
